@@ -20,6 +20,28 @@ https://edwarddonner.com/2024/11/13/llm-engineering-resources/
 
 The most significant change is that the new version uses the fabulous uv, instead of Anaconda. But there's also tons of new content, including new models, tools and techniques. Prompt caching, LiteLLM, inference techniques and so much more.
 
+### How this is organized in Udemy
+
+We are rolling out the new weeks, but keeping the original content in an appendix:
+
+In Udemy:  
+
+Section 1 = NEW WEEK 1  
+Section 2 = NEW WEEK 2  
+Section 3 = NEW WEEK 3  
+Section 4 = NEW WEEK 4  
+Section 5 = Original Week 5  
+Section 6 = Original Week 6  
+Section 7 = Original Week 7  
+Section 8 = Original Week 8  
+
+Then as an appendix / archive:
+
+Section 9 = Original Week 1  
+Section 10 = Original Week 2  
+Section 11 = Original Week 3    
+Section 12 = Original Week 4  
+
 ### To revert to the original version of code, consistent with the original videos (Anaconda + virtualenv)
 
 If you'd prefer to stick with the code for the original videos, simply do this from your Anaconda Prompt or Terminal:  
@@ -53,7 +75,11 @@ We will start the course by installing Ollama so you can see results immediately
 
 Any problems, please contact me!
 
-## Then, Setup instructions
+## Before the Setup instructions - a special note
+
+Early on in the course (on Day 2), I give a demo of a very cool, popular product called Claude Code. It's an AI coding tool, similar to Cursor that we use on the course. I'm only showing this as an example of Agentic AI in action; it's not a tool that's covered explicitly on this course, particularly as we're in Cursor. But if you want to use Claude Code yourself, the Quick Start guide from Anthropic is [here](https://docs.claude.com/en/docs/claude-code/quickstart).
+
+## OK - now on to Setup instructions
 
 After we do the Ollama quick project, and after I introduce myself and the course, we get to work with the full environment setup.  
 
